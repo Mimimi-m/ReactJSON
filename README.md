@@ -1,2 +1,0 @@
-# ReactJSON
-Created with CodeSandbox
